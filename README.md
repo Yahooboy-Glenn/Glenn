@@ -8,7 +8,6 @@ I am a dedicated and detail-oriented cybersecurity enthusiast with a background 
 I am actively seeking opportunities as a SOC Analyst (Tier 1) where I can leverage my skills to monitor, detect, and respond to security threats effectively.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
