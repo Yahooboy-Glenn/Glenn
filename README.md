@@ -12,7 +12,7 @@ I am actively seeking opportunities as a SOC Analyst (Tier 1) where I can levera
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://www.youtube.com/watch?v=Xqd0jA1q81U">Building a SOC Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Windows DHCP & DNS Configuration Lab and Attack Detection | <a href="https://youtu.be/86oCfMSjsX4">Windows DHCP & DNS Configuration Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
