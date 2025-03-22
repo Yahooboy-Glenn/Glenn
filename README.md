@@ -54,7 +54,7 @@ I am actively seeking opportunities as a SOC Analyst (Tier 1) where I can levera
 ## Projects
 🔹 Building a SOC Lab
 A hands-on SOC lab designed to simulate real-world threat detection scenarios. This project focuses on SIEM implementation, network log analysis, and attack detection using tools like Splunk, Suricata, and Zeek.
-### 1. **SOC Lab Project**
+**SOC Lab Project**
 A hands-on Security Operations Center (SOC) lab designed to simulate enterprise-level cybersecurity operations.
 - **Key Features:**
   - SIEM setup with Elastic Stack (Elasticsearch, Logstash, Kibana)
