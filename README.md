@@ -5,7 +5,7 @@ I am a dedicated and detail-oriented cybersecurity enthusiast with a background 
 
 ## Objective
 
-I am actively seeking opportunities as a SOC Analyst (Tier 1) where I can leverage my skills to monitor, detect, and respond to security threats effectively.
+I am actively seeking opportunities as a Security Engineer (Tier 1) where I can leverage my skills to monitor, detect, and respond to security threats effectively.
 
 ## Skills
 
